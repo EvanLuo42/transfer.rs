@@ -1,2 +1,2 @@
 # transfer.rs
-Transfer.sh written in Rust
+Transfer.sh written in Rust (Client)
