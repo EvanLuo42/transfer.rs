@@ -18,3 +18,9 @@ transfer -f <FILE_PATH> -n <FILE_NAME>
 ### Feature:
 - [x] Basic upload file
 - [ ] Encrypt file and upload
+
+---
+### Acknowledgements:
+- [Clap](https://github.com/clap-rs/clap)
+- [Reqwest](https://github.com/seanmonstar/reqwest)
+- [Tokio](https://github.com/tokio-rs/tokio)
